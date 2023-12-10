@@ -1,7 +1,8 @@
 # campsnap-fun
 
 ## random info on the camp snap camera
-* device comes with a 4GB microsdhc card, class 10, made in Taiwan.
+* device comes with an unbranded 4GB microsdhc card, class 10, made in Taiwan.
+  * filesystem label is "CAMPSNAP"
 * works as a usb webcam when no microsd card is inserted
   * available resolutions: 640x480 320x240, 160x120. 1280x720 didn't work
 * there is some sort of an RTC as it keeps time when off, but there seems to be no obvious way to set the clock
