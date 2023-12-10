@@ -54,70 +54,70 @@ random stuff on the camp snap camera
 [3.427153] sd 2:0:0:0: [sdb] Attached SCSI removable disk
 ```
 # sample image exif data
-|Exif.Image.Make|Ascii|12|Icatch||
-|Exif.Image.Model|Ascii|10|Spca1628||
-|Exif.Image.Orientation|Short|1|1|
-|Exif.Image.XResolution|Rational|1|72/1|
-|Exif.Image.YResolution|Rational|1|72/1|
-|Exif.Image.ResolutionUnit|Short|1|2|
-|Exif.Image.Software|Ascii|12|V233-00-01||
-|Exif.Image.DateTime|Ascii|20|2023:01:25|17:23:05|
-|Exif.Image.YCbCrPositioning|Short|1|2|
-|Exif.Image.ExifTag|Long|1|216|
-|Exif.Photo.ExposureTime|Rational|1|10/332|
-|Exif.Photo.FNumber|Rational|1|32/10|
-|Exif.Photo.ExposureProgram|Short|1|2|
-|Exif.Photo.ISOSpeedRatings|Short|1|800|
-|Exif.Photo.ExifVersion|Undefined|4|48|50|50|48|
-|Exif.Photo.DateTimeOriginal|Ascii|20|2023:01:25|17:23:05|
-|Exif.Photo.DateTimeDigitized|Ascii|20|2023:01:25|17:23:05|
-|Exif.Photo.ComponentsConfiguration|Undefined|4|1|2|3|0|
-|Exif.Photo.CompressedBitsPerPixel|Rational|1|2/1|
-|Exif.Photo.BrightnessValue|SRational|1|-5000/1000|
-|Exif.Photo.ExposureBiasValue|SRational|1|0/10|
-|Exif.Photo.MaxApertureValue|Rational|1|3/2|
-|Exif.Photo.MeteringMode|Short|1|4|
-|Exif.Photo.LightSource|Short|1|0|
-|Exif.Photo.Flash|Short|1|0|
-|Exif.Photo.FocalLength|Rational|1|82/11|
-|Exif.Photo.SubjectArea|Short|4|1632|1224|3264|2448|
-|Exif.Photo.FlashpixVersion|Undefined|4|48|49|48|48|
-|Exif.Photo.ColorSpace|Short|1|1|
-|Exif.Photo.PixelXDimension|Long|1|3264|
-|Exif.Photo.PixelYDimension|Long|1|2448|
-|Exif.Photo.InteroperabilityTag|Long|1|754|
-|Exif.Iop.InteroperabilityIndex|Ascii|4|R98|
-|Exif.Iop.InteroperabilityVersion|Undefined|4|48|49|48|48|
-|Exif.Photo.FileSource|Undefined|1|3|
-|Exif.Photo.SceneType|Undefined|1|1|
-|Exif.Photo.CustomRendered|Short|1|0|
-|Exif.Photo.ExposureMode|Short|1|0|
-|Exif.Photo.WhiteBalance|Short|1|0|
-|Exif.Photo.DigitalZoomRatio|Rational|1|0/1|
-|Exif.Photo.FocalLengthIn35mmFilm|Short|1|0|
-|Exif.Photo.SceneCaptureType|Short|1|0|
-|Exif.Photo.GainControl|Short|1|0|
-|Exif.Photo.Contrast|Short|1|0|
-|Exif.Photo.Saturation|Short|1|0|
-|Exif.Photo.Sharpness|Short|1|0|
-|Exif.Photo.SubjectDistanceRange|Short|1|0|
-|Exif.Image.GPSTag|Long|1|784|
-|Exif.GPSInfo.GPSLatitudeRef|Ascii|2|N|
-|Exif.GPSInfo.GPSLatitude|Rational|3|30/1|3996/1|0/1|
-|Exif.GPSInfo.GPSLongitudeRef|Ascii|2|E|
-|Exif.GPSInfo.GPSLongitude|Rational|3|104/1|628/1|0/1|
-|Exif.GPSInfo.GPSAltitudeRef|Byte|1|0|
-|Exif.GPSInfo.GPSAltitude|Rational|1|34775/69|
-|Exif.GPSInfo.GPSTimeStamp|Rational|3|22/1|11/1|2618/100|
-|Exif.GPSInfo.GPSProcessingMethod|Undefined|16|charset=Ascii|NETWORK|
-|Exif.GPSInfo.GPSDateStamp|Ascii|11|2013:07:04|
-|Exif.Thumbnail.Compression|Short|1|6|
-|Exif.Thumbnail.Orientation|Short|1|1|
-|Exif.Thumbnail.XResolution|Rational|1|72/1|
-|Exif.Thumbnail.YResolution|Rational|1|72/1|
-|Exif.Thumbnail.ResolutionUnit|Short|1|2|
-|Exif.Thumbnail.JPEGInterchangeFormat|Long|1|1124|
-|Exif.Thumbnail.JPEGInterchangeFormatLength|Long|1|7634|
-|Exif.Thumbnail.YCbCrPositioning|Short|1|2|
+| Exif.Image.Make | Ascii | 12 | Icatch |  |
+| Exif.Image.Model | Ascii | 10 | Spca1628 |  |
+| Exif.Image.Orientation | Short | 1 | 1 |
+| Exif.Image.XResolution | Rational | 1 | 72/1 |
+| Exif.Image.YResolution | Rational | 1 | 72/1 |
+| Exif.Image.ResolutionUnit | Short | 1 | 2 |
+| Exif.Image.Software | Ascii | 12 | V233-00-01 |  |
+| Exif.Image.DateTime | Ascii | 20 | 2023:01:25 | 17:23:05 |
+| Exif.Image.YCbCrPositioning | Short | 1 | 2 |
+| Exif.Image.ExifTag | Long | 1 | 216 |
+| Exif.Photo.ExposureTime | Rational | 1 | 10/332 |
+| Exif.Photo.FNumber | Rational | 1 | 32/10 |
+| Exif.Photo.ExposureProgram | Short | 1 | 2 |
+| Exif.Photo.ISOSpeedRatings | Short | 1 | 800 |
+| Exif.Photo.ExifVersion | Undefined | 4 | 48 | 50 | 50 | 48 |
+| Exif.Photo.DateTimeOriginal | Ascii | 20 | 2023:01:25 | 17:23:05 |
+| Exif.Photo.DateTimeDigitized | Ascii | 20 | 2023:01:25 | 17:23:05 |
+| Exif.Photo.ComponentsConfiguration | Undefined | 4 | 1 | 2 | 3 | 0 |
+| Exif.Photo.CompressedBitsPerPixel | Rational | 1 | 2/1 |
+| Exif.Photo.BrightnessValue | SRational | 1 | -5000/1000 |
+| Exif.Photo.ExposureBiasValue | SRational | 1 | 0/10 |
+| Exif.Photo.MaxApertureValue | Rational | 1 | 3/2 |
+| Exif.Photo.MeteringMode | Short | 1 | 4 |
+| Exif.Photo.LightSource | Short | 1 | 0 |
+| Exif.Photo.Flash | Short | 1 | 0 |
+| Exif.Photo.FocalLength | Rational | 1 | 82/11 |
+| Exif.Photo.SubjectArea | Short | 4 | 1632 | 1224 | 3264 | 2448 |
+| Exif.Photo.FlashpixVersion | Undefined | 4 | 48 | 49 | 48 | 48 |
+| Exif.Photo.ColorSpace | Short | 1 | 1 |
+| Exif.Photo.PixelXDimension | Long | 1 | 3264 |
+| Exif.Photo.PixelYDimension | Long | 1 | 2448 |
+| Exif.Photo.InteroperabilityTag | Long | 1 | 754 |
+| Exif.Iop.InteroperabilityIndex | Ascii | 4 | R98 |
+| Exif.Iop.InteroperabilityVersion | Undefined | 4 | 48 | 49 | 48 | 48 |
+| Exif.Photo.FileSource | Undefined | 1 | 3 |
+| Exif.Photo.SceneType | Undefined | 1 | 1 |
+| Exif.Photo.CustomRendered | Short | 1 | 0 |
+| Exif.Photo.ExposureMode | Short | 1 | 0 |
+| Exif.Photo.WhiteBalance | Short | 1 | 0 |
+| Exif.Photo.DigitalZoomRatio | Rational | 1 | 0/1 |
+| Exif.Photo.FocalLengthIn35mmFilm | Short | 1 | 0 |
+| Exif.Photo.SceneCaptureType | Short | 1 | 0 |
+| Exif.Photo.GainControl | Short | 1 | 0 |
+| Exif.Photo.Contrast | Short | 1 | 0 |
+| Exif.Photo.Saturation | Short | 1 | 0 |
+| Exif.Photo.Sharpness | Short | 1 | 0 |
+| Exif.Photo.SubjectDistanceRange | Short | 1 | 0 |
+| Exif.Image.GPSTag | Long | 1 | 784 |
+| Exif.GPSInfo.GPSLatitudeRef | Ascii | 2 | N |
+| Exif.GPSInfo.GPSLatitude | Rational | 3 | 30/1 | 3996/1 | 0/1 |
+| Exif.GPSInfo.GPSLongitudeRef | Ascii | 2 | E |
+| Exif.GPSInfo.GPSLongitude | Rational | 3 | 104/1 | 628/1 | 0/1 |
+| Exif.GPSInfo.GPSAltitudeRef | Byte | 1 | 0 |
+| Exif.GPSInfo.GPSAltitude | Rational | 1 | 34775/69 |
+| Exif.GPSInfo.GPSTimeStamp | Rational | 3 | 22/1 | 11/1 | 2618/100 |
+| Exif.GPSInfo.GPSProcessingMethod | Undefined | 16 | charset=Ascii | NETWORK |
+| Exif.GPSInfo.GPSDateStamp | Ascii | 11 | 2013:07:04 |
+| Exif.Thumbnail.Compression | Short | 1 | 6 |
+| Exif.Thumbnail.Orientation | Short | 1 | 1 |
+| Exif.Thumbnail.XResolution | Rational | 1 | 72/1 |
+| Exif.Thumbnail.YResolution | Rational | 1 | 72/1 |
+| Exif.Thumbnail.ResolutionUnit | Short | 1 | 2 |
+| Exif.Thumbnail.JPEGInterchangeFormat | Long | 1 | 1124 |
+| Exif.Thumbnail.JPEGInterchangeFormatLength | Long | 1 | 7634 |
+| Exif.Thumbnail.YCbCrPositioning | Short | 1 | 2 |
 
 more to come...
