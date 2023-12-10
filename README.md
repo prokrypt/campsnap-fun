@@ -54,6 +54,8 @@ random stuff on the camp snap camera
 [3.427153] sd 2:0:0:0: [sdb] Attached SCSI removable disk
 ```
 # sample image exif data
+| key | type | len | value |
+|----------------|:------------:|----|----|
 | Exif.Image.Make | Ascii | 12 | Icatch |  |
 | Exif.Image.Model | Ascii | 10 | Spca1628 |  |
 | Exif.Image.Orientation | Short | 1 | 1 |
