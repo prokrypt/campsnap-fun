@@ -55,7 +55,7 @@ random stuff on the camp snap camera
 ```
 # sample image exif data
 | key | type | len | value |
-|----------------|:------------:|----|----|
+|-|-|-|-|
 | Exif.Image.Make | Ascii | 12 | Icatch |  |
 | Exif.Image.Model | Ascii | 10 | Spca1628 |  |
 | Exif.Image.Orientation | Short | 1 | 1 |
