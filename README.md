@@ -1,6 +1,19 @@
 # campsnap-fun
 random stuff on the camp snap camera
 
+## operation
+* make sure camera is charged
+* hold down shutter button
+* display shows `---`. keep holding the button!
+* device beeps after ~2.5 seconds and you can let go of the button
+* wait another ~3 seconds for device to finish booting and scan the microsd card (for 148 photos in my case)
+* display shows the amount of photos taken
+* ready to take photos! press shutter button
+* display shows `---`
+* wait ~0.8 seconds until shutter sound plays, indicating the photo has been taken
+* wait another ~2.5 seconds for it to save photo
+* display shows amount of photos taken
+
 ## dmesg with stock microsd card
 ```
 [0.120121] usb 5-1.1.3: new high-speed USB device number 78 using xhci_hcd
