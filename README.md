@@ -126,6 +126,6 @@
 
 ## how to void your warranty (mods!)
 * drill a hole. attach lanyard dingle dongle.
-  * (./images/IMG_20231210_155133073.jpg)
+  * ![warranty void](./images/IMG_20231210_155133073.jpg)
 
 more to come...
