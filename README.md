@@ -1,5 +1,6 @@
 # campsnap-fun
 random stuff on the camp snap camera
+* device comes with a 4GB microsdhc card, class 10, made in Taiwan.
 
 ## operation
 * make sure camera is charged
