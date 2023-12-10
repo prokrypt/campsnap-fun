@@ -124,4 +124,8 @@
 | Exif.Thumbnail.JPEGInterchangeFormatLength | Long | 1 | 7634 |
 | Exif.Thumbnail.YCbCrPositioning | Short | 1 | 2 |
 
+## how to void your warranty (mods!)
+* drill a hole. attach lanyard dingle dongle.
+  * (./images/IMG_20231210_155133073.jpg)
+
 more to come...
