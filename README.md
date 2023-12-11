@@ -57,6 +57,7 @@
 [3.427153] sd 2:0:0:0: [sdb] Attached SCSI removable disk
 ```
 # sample image exif data
+`exiv2 -pe SUNP0001.JPG`
 | key | type | len | value |
 |-|-|-|-|
 | Exif.Image.Make | Ascii | 12 | Icatch |  |
