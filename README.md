@@ -126,6 +126,9 @@
 | Exif.Thumbnail.JPEGInterchangeFormatLength | Long | 1 | 7634 |
 | Exif.Thumbnail.YCbCrPositioning | Short | 1 | 2 |
 
+## tips
+* go to [https://time.is] on a phone/tablet/desktop and take a photo. then when reviewing your photos you have a date/time reference to adjust the timestamps if needed.
+
 ## how to void your warranty (mods!)
 * drill a hole. attach lanyard dingle dongle. the plastic is a bit soft so be sure to leave as much plastic as possible while avoiding the screw in the hole.
   * ![warranty void](./images/IMG_20231210_155133073.jpg)
