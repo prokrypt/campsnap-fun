@@ -125,7 +125,7 @@
 | Exif.Thumbnail.YCbCrPositioning | Short | 1 | 2 |
 
 ## how to void your warranty (mods!)
-* drill a hole. attach lanyard dingle dongle.
+* drill a hole. attach lanyard dingle dongle. the plastic is a bit soft so be sure to leave as much plastic as possible while avoiding the screw in the hole.
   * ![warranty void](./images/IMG_20231210_155133073.jpg)
 
 more to come...
