@@ -25,6 +25,7 @@
 * go to [time.is](https://time.is) on a phone/tablet/desktop and take a photo. then when reviewing your photos you have a date/time reference to adjust the timestamps if needed.
 * have the camera pointed at your subject for a second or two before taking a photo. the auto exposure is always working in the background until the shutter button is pressed.
   * you can get creative with this by pointing it at a brighter/darker area before taking a photo of your subject to underexpose/overexpose the photo, but you'll have to be quick.
+  * the camera doesn't seem to compensate for exposure when flash is enabled
 
 ### dmesg with stock microsd card
 ```
