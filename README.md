@@ -133,4 +133,12 @@
 * drill a hole. attach lanyard dingle dongle. the plastic is a bit soft so be sure to leave as much plastic as possible while avoiding the screw in the hole.
   * ![warranty void](./images/IMG_20231210_155133073.jpg)
 
+## firmware hacks
+rename to 1628.bin\
+don't forget ISP.BIN!
+
+### files
+[blips.bin](./fwhacks/blips.bin) - shortened audio blips for start/shutter/stop. other error sounds are unchanged. much less annoying now. :)
+
+
 more to come...
