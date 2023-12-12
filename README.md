@@ -138,7 +138,7 @@ rename to 1628.bin\
 don't forget ISP.BIN!
 
 ### files
-[blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) - shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
+[blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) - based on 1.52 firmware. shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
 
 
 more to come...
