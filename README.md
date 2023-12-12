@@ -8,7 +8,7 @@
 * there is some sort of an RTC as it keeps time when off, but there seems to be no obvious way to set the clock
   * resets to 12/31/2022 16:00:00 upon firmware reflash. at one point it reset to 01/01/2010 04:00:00, probably after disconnecting battery?
 
-## operation
+### operation
 * make sure camera is charged
 * hold down shutter button
 * display shows `---`. keep holding the button!
@@ -21,7 +21,7 @@
 * wait another ~2.5 seconds for it to save photo
 * display shows amount of photos taken
 
-## dmesg with stock microsd card
+### dmesg with stock microsd card
 ```
 [0.120121] usb 5-1.1.3: new high-speed USB device number 78 using xhci_hcd
 [0.272862] usb 5-1.1.3: New USB device found, idVendor=04fc, idProduct=1628, bcdDevice= 1.00
@@ -56,7 +56,7 @@
 [3.426180]  sdb: sdb1
 [3.427153] sd 2:0:0:0: [sdb] Attached SCSI removable disk
 ```
-# sample image exif data
+### sample image exif data
 `exiv2 -pe SUNP0001.JPG`
 | key | type | len | value |
 |-|-|-|-|
@@ -126,18 +126,18 @@
 | Exif.Thumbnail.JPEGInterchangeFormatLength | Long | 1 | 7634 |
 | Exif.Thumbnail.YCbCrPositioning | Short | 1 | 2 |
 
-## tips
+### tips
 * go to [time.is](https://time.is) on a phone/tablet/desktop and take a photo. then when reviewing your photos you have a date/time reference to adjust the timestamps if needed.
 
-## how to void your warranty (mods!)
+### how to void your warranty (mods!)
 * drill a hole. attach lanyard dingle dongle. the plastic is a bit soft so be sure to leave as much plastic as possible while avoiding the screw in the hole.
   * ![warranty void](./images/IMG_20231210_155133073.jpg)
 
-## firmware hacks
+### firmware hacks
 rename to 1628.bin\
 don't forget ISP.BIN!
 
-### files
+#### files
 [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) - shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
 
 
