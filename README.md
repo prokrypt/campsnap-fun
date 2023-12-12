@@ -20,6 +20,8 @@
 * wait ~0.8 seconds until shutter sound plays, indicating the photo has been taken
 * wait another ~2.5 seconds for it to save photo
 * display shows amount of photos taken
+#### tips
+* go to [time.is](https://time.is) on a phone/tablet/desktop and take a photo. then when reviewing your photos you have a date/time reference to adjust the timestamps if needed.
 
 ### dmesg with stock microsd card
 ```
@@ -56,6 +58,7 @@
 [3.426180]  sdb: sdb1
 [3.427153] sd 2:0:0:0: [sdb] Attached SCSI removable disk
 ```
+
 ### sample image exif data
 `exiv2 -pe SUNP0001.JPG`
 | key | type | len | value |
@@ -126,10 +129,7 @@
 | Exif.Thumbnail.JPEGInterchangeFormatLength | Long | 1 | 7634 |
 | Exif.Thumbnail.YCbCrPositioning | Short | 1 | 2 |
 
-### tips
-* go to [time.is](https://time.is) on a phone/tablet/desktop and take a photo. then when reviewing your photos you have a date/time reference to adjust the timestamps if needed.
-
-### how to void your warranty (mods!)
+## how to void your warranty (mods!)
 * drill a hole. attach lanyard dingle dongle. the plastic is a bit soft so be sure to leave as much plastic as possible while avoiding the screw in the hole.
   * ![warranty void](./images/IMG_20231210_155133073.jpg)
 
