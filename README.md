@@ -133,11 +133,11 @@
 * drill a hole. attach lanyard dingle dongle. the plastic is a bit soft so be sure to leave as much plastic as possible while avoiding the screw in the hole.
   * ![warranty void](./images/IMG_20231210_155133073.jpg)
 
-### firmware hacks
+## firmware hacks
 rename to 1628.bin\
 don't forget ISP.BIN!
 
-#### files
+### files
 [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) - shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
 
 
