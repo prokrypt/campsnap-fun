@@ -9,7 +9,7 @@
   * resets to 12/31/2022 16:00:00 upon firmware reflash. at one point it reset to 01/01/2010 04:00:00, probably after disconnecting battery?
 
 ### operation
-* make sure camera is charged
+* make sure camera battery is not dead
 * hold down shutter button
 * display shows `---`. keep holding the button!
 * device beeps after ~2.5 seconds and you can let go of the button
