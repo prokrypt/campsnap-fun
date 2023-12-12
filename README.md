@@ -59,6 +59,10 @@
 [3.427153] sd 2:0:0:0: [sdb] Attached SCSI removable disk
 ```
 
+### internal photo
+* ![internals](./images/IMG_20231210_153403977.jpg)
+* please send me some photos! i'm lazy...
+
 ### sample image exif data
 `exiv2 -pe SUNP0001.JPG`
 | key | type | len | value |
