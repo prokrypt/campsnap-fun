@@ -7,6 +7,7 @@
   * available resolutions: 640x480 320x240, 160x120. 1280x720 didn't work
 * there is some sort of an RTC as it keeps time when off, but there seems to be no obvious way to set the clock
   * resets to 12/31/2022 16:00:00 upon firmware reflash. at one point it reset to 01/01/2010 04:00:00, probably after disconnecting battery?
+* the idle poweroff timer seems to be 10 minutes
 
 ### operation
 * make sure camera battery is not dead
