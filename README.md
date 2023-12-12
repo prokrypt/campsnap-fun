@@ -142,7 +142,8 @@
 
 ## firmware hacks
 rename to 1628.bin\
-don't forget ISP.BIN!
+don't forget ISP.BIN!\
+if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.
 
 ### files
 [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) - based on 1.52 firmware. shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
