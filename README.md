@@ -98,7 +98,7 @@
 | Exif.Photo.Flash | Short | 1 | 0 |
 | Exif.Photo.FocalLength | Rational | 1 | 82/11 |
 | Exif.Photo.SubjectArea | Short | 4 | 1632 1224 3264 2448 |
-| Exif.Photo.FlashpixVersion | Undefined | 4 48 49 48 48 |
+| Exif.Photo.FlashpixVersion | Undefined | 4 | 48 49 48 48 |
 | Exif.Photo.ColorSpace | Short | 1 | 1 |
 | Exif.Photo.PixelXDimension | Long | 1 | 3264 |
 | Exif.Photo.PixelYDimension | Long | 1 | 2448 |
