@@ -154,9 +154,8 @@ don't forget ISP.BIN!\
 if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.
 
 ### files
-* blips!
-  * shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
-    * [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) - based on 1.52 firmware
-    * [blips-bw.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips-bw.bin) - black and white firmware. untested, but simple sanity check showed wav offsets are the same.
+* blips: shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
+  * [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) - based on 1.52 firmware
+  * [blips-bw.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips-bw.bin) - black and white firmware. untested, but simple sanity check showed wav offsets are the same.
 
 more to come...
