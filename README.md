@@ -65,7 +65,14 @@
 
 ### internal photo
 * ![internals](./images/IMG_20231210_153403977.jpg)
-* more photos coming soon!
+* ![600mAh battery](./images/battery.jpg)
+* ![mainboard_front](./images/mainboard_front.jpg)
+* ![mainboard_front lighted](./images/mainboard_front_lighted.jpg)
+* ![mainboard_rear](./images/mainboard_rear.jpg)
+* ![mainboard_rear lighted](./images/mainboard_rear_lighted.jpg)
+* ![mainboard shutter button connection pinout](./images/mainboard_shutter_button_connection.jpg)
+* ![shutter button board](./images/shutter_button_board.jpg)
+* ![flash switch and led display](./images/flash_switch.jpg)
 
 ### sample image exif data
 `exiv2 -pe SUNP0001.JPG`
@@ -139,7 +146,7 @@
 
 ## how to void your warranty (mods!)
 * drill a hole. attach lanyard dingle dongle. the plastic is a bit soft so be sure to leave as much plastic as possible while avoiding the screw in the hole.
-  * ![warranty void](./images/IMG_20231210_155133073.jpg)
+  * ![warranty void](./images/lanyard_hole.jpg)
 
 ## firmware hacks
 rename to 1628.bin\
