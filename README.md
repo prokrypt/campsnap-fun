@@ -65,7 +65,7 @@
 
 ### internal photo
 * ![internals](./images/IMG_20231210_153403977.jpg)
-* please send me some nice board photos! i'm lazy...
+* more photos coming soon!
 
 ### sample image exif data
 `exiv2 -pe SUNP0001.JPG`
