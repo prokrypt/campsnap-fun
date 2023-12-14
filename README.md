@@ -63,7 +63,7 @@
 [3.427153] sd 2:0:0:0: [sdb] Attached SCSI removable disk
 ```
 
-### internal photo
+### internal photos
 * ![internals](./images/IMG_20231210_153403977.jpg)
 * ![600mAh battery](./images/battery.jpg)
 * ![mainboard_front](./images/mainboard_front.jpg)
