@@ -155,7 +155,7 @@ if you think you've bricked your camera, try removing the microsd card and putti
 
 ### files
 * blips: shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
-  * [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) (MD5SUM: eb4b12cf804fdafcc6278b4c920b1096) - based on 1.52 firmware
+  * [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) (MD5SUM: eb4b12cf804fdafcc6278b4c920b1096) - based on CS15v152 firmware
   * [blips-bw.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips-bw.bin) (MD5SUM: 437fbeb95cbf0fcc561f521fc8aad75a) - black and white firmware. untested, but simple sanity check showed wav offsets are the same.
 
 more to come...
