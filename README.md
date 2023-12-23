@@ -150,7 +150,7 @@
 
 ## firmware hacks
 rename to 1628.bin\
-don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!\
+don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be) and DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952) if needed!\
 if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.
 
 ### files
