@@ -14,7 +14,7 @@
 * hold down shutter button
 * display shows `---`. keep holding the button!
 * device beeps after ~2.5 seconds and you can let go of the button
-* wait another ~3 seconds for device to finish booting and scan the microsd card (for 148 photos in my case)
+* wait another ~3 seconds for device to finish booting and scan the microsd card (for 148 photos in my case. update: 668 photos take ~4 seconds to scan)
 * display shows the amount of photos taken
 * ready to take photos! press and release shutter button. hold still!
 * display shows `---`
