@@ -152,7 +152,7 @@
 rename to 1628.bin\
 don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!\
 if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.\
-disclaimer: these firmware hacks are not endorsed nor supported by the Camp Snap company. flash at your own risk.
+**disclaimer: these firmware hacks are not endorsed nor supported by the Camp Snap company. flash at your own risk.**
 
 ### files
 * blips: shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
