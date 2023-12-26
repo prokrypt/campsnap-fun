@@ -66,6 +66,7 @@
 ### internal photos
 * ![internals](./images/IMG_20231210_153403977.jpg)
 * ![600mAh battery](./images/battery.jpg)
+* ![camera sensor assembly](./images/camera_assembly.jpg)
 * ![mainboard_front](./images/mainboard_front.jpg)
 * ![mainboard_front lighted](./images/mainboard_front_lighted.jpg)
 * ![mainboard_rear](./images/mainboard_rear.jpg)
