@@ -12,6 +12,7 @@
 * shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication
 * charges at ~440mA
 * charging circuitry float voltage is ~4.16v when battery is disconnected. within spec of ±1% listed in datasheet of LTH7
+* charging terminates at ~4.23v and battery settles down to 4.20v
 * ESTIMATE: camera drains an extra ~140mA from USB when powered on
 
 ### operation
