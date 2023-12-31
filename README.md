@@ -9,8 +9,10 @@
   * resets to 12/31/2022 16:00:00 upon firmware reflash. at one point it reset to 01/01/2010 04:00:00, probably after disconnecting battery?
 * the idle poweroff timer seems to be 10 minutes \[and ~3-4 seconds\]
 * red low power indicator flashes when battery voltage drops below ~3.50v. may be a bit difficult to see through the green.
-* camera shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication
+* shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication
+* charges at ~440mA
 * charging circuitry float voltage is 4.16v when battery is disconnected
+* ESTIMATE: camera drains an extra 140mA from USB when powered on
 
 ### operation
 * make sure camera battery is not dead
