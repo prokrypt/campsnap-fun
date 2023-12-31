@@ -10,6 +10,7 @@
 * the idle poweroff timer seems to be 10 minutes \[and ~3-4 seconds\]
 * red low power indicator flashes when battery voltage drops below ~3.50v. may be a bit difficult to see through the green.
 * camera shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication
+* charging circuitry float voltage is 4.16v when battery is disconnected
 
 ### operation
 * make sure camera battery is not dead
