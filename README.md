@@ -3,7 +3,7 @@
 ## random info on the camp snap camera
 * device comes with an unbranded 4GB microsdhc card, class 10, made in Taiwan.
   * filesystem label is "CAMPSNAP"
-* will accept a 128TB card, but have not tested fully yet...
+* will accept a 128GB card, but have not tested fully yet...
 * works as a usb webcam when no microsd card is inserted
   * available resolutions: 640x480, 320x240, and 160x120. 1280x720 didn't work though it was listed
 * there is some sort of an RTC as it keeps time when off, but there seems to be no obvious way to set the clock
