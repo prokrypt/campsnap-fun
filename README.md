@@ -11,7 +11,7 @@
 * red low power indicator flashes when battery voltage drops below ~3.50v. may be a bit difficult to see through the green.
 * shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication
 * charges at ~440mA
-* charging circuitry float voltage is ~4.16v when battery is disconnected
+* charging circuitry float voltage is ~4.16v when battery is disconnected. within spec of ±1% listed in datasheet of LTH7
 * ESTIMATE: camera drains an extra ~140mA from USB when powered on
 
 ### operation
