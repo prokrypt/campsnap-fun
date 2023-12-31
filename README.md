@@ -3,6 +3,7 @@
 ## random info on the camp snap camera
 * device comes with an unbranded 4GB microsdhc card, class 10, made in Taiwan.
   * filesystem label is "CAMPSNAP"
+* will accept a 128TB card, but have not tested fully yet...
 * works as a usb webcam when no microsd card is inserted
   * available resolutions: 640x480, 320x240, and 160x120. 1280x720 didn't work though it was listed
 * there is some sort of an RTC as it keeps time when off, but there seems to be no obvious way to set the clock
@@ -10,8 +11,8 @@
 * the idle poweroff timer seems to be 10 minutes \[and ~3-4 seconds\]
 * red low power indicator flashes when battery voltage drops below ~3.50v. may be a bit difficult to see through the green.
 * shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication
-* charges at ~440mA
 * charging circuitry float voltage is ~4.16v when battery is disconnected. within spec of ±1% listed in datasheet of LTH7
+* charges at ~440mA
 * charging terminates at ~4.23v and battery settles down to 4.20v
 * ESTIMATE: camera drains an extra ~140mA from USB when powered on
 
