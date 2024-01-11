@@ -161,7 +161,7 @@
 * don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!
 * ~~if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.~~
   * TODO: figure out how to put camera into USB ISP mode
-* **note**: please don't try **\*\*UNTESTED\*\*** firmwares unless you have a way to recover in case in failure.
+* **note**: please don't try **UNTESTED** firmwares unless you have a way to recover in case in failure.
 * **disclaimer: these firmware hacks are not endorsed nor supported by the Camp Snap company. flash at your own risk.**
 
 
