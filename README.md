@@ -157,16 +157,21 @@
   * ![warranty void](./images/lanyard_hole.jpg)
 
 ## firmware hacks
-rename to 1628.bin\
-don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!\
-~~if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.~~ TODO: figure out how to put camera into USB ISP mode\
+* rename to 1628.bin
+* don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!
+* ~~if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.~~
+  * TODO: figure out how to put camera into USB ISP mode
+* **note**: please don't try **\*\*UNTESTED\*\*** firmwares unless you have a way to recover in case in failure.
 **disclaimer: these firmware hacks are not endorsed nor supported by the Camp Snap company. flash at your own risk.**
+
 
 ### files
 * blips: shortened audio blips for poweron/shutter/poweroff. other error sounds are unchanged. much less annoying now :)
   * [blips.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips.bin) (MD5SUM: 92778e85631c408de90de821f4da4a9a) - based on CS15v152 firmware
   * [blips-bw.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips-bw.bin) (MD5SUM: 437fbeb95cbf0fcc561f521fc8aad75a) - black and white firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
-* silent: silence is bliss
-  * [silent-bw.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/silent-bw.bin) (MD5SUM: bd36186b55db2ed7a5df9e5e5f862638) - silent version of black and white firmware. audio portions (except for error sounds) of the firmware are truncated. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
+  * **UNTESTED** [blips-vtg.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips-vtg.bin) (MD5SUM: d333bbb441f4ba763ed3b6ee384d2083) - vintage filter firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
+* silent: silence is bliss. audio portions (except for error sounds) of the firmware are truncated
+  * [silent-bw.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/silent-bw.bin) (MD5SUM: bd36186b55db2ed7a5df9e5e5f862638) - based on black and white firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
+  * **UNTESTED** [silent-vtg.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/silent-vtg.bin) (MD5SUM: c92863a38a8885a726c5df6c6031e5f5) - based on vintage filter firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
 
 more to come...
