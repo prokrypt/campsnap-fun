@@ -1,5 +1,5 @@
 # edited wave files for silent firmware hacks
-no you don't need these, but they're here if you would like to listen to some ~~samples~~silence before flashing the firmware. depending on your player and/or audio system, these ~~may~~ will definitely be too short to be audible.
+no you don't need these, but they're here if you would like to listen to some ~~samples~~silence before flashing the firmware. ~~depending on~~regardless of your player and/or audio system, these ~~may~~ will definitely be too short to be audible.
 * [silence.wav](https://raw.github.com/prokrypt/campsnap-fun/main/fwhacks/silent/silence.wav) - ...
 ```
 00000000  52 49 46 46 24 00 00 00  57 41 56 45 66 6d 74 20  |RIFF$...WAVEfmt |
