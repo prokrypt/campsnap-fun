@@ -10,7 +10,7 @@
   * resets to 12/31/2022 16:00:00 upon firmware reflash. at one point it reset to 01/01/2010 04:00:00, probably after disconnecting battery?
 * the idle poweroff timer seems to be 10 minutes \[and ~3-4 seconds\]
 * red low power indicator flashes when battery voltage drops below ~3.50v. may be a bit difficult to see through the green.
-* shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication
+* shuts down \[safely\] when battery voltage drops to ~3.42v, just shortly (minutes) after low power indication. it would be very difficult to run down the battery enough to damage it
 * charging circuitry float voltage is ~4.16v when battery is disconnected. within spec of ±1% listed in datasheet of LTH7
 * charges at ~440mA
 * charging terminates at ~4.23v and battery settles down to 4.20v
