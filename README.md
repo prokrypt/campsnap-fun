@@ -159,9 +159,10 @@
 ## firmware hacks
 * rename to 1628.bin
 * don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!
+* if md5sums do not match, do not continue. md5sums last checked 06/05/2024.
+* follow instructions from official Camp Snap support page.
 * ~~if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.~~
   * TODO: figure out how to put camera into USB ISP mode, possibly through USB-C SBU?
-* **note**: please don't try **UNTESTED** firmwares unless you have a way to recover in case in failure. for those of you who can safely test, please report back on whether or not it works correctly by opening an issue! or you can wait for me to test it after i unbreak my linux kernel 🫠
 * **disclaimer: these firmware hacks are not endorsed nor supported by the Camp Snap company. flash at your own risk.**
 
 
@@ -172,6 +173,6 @@
   * [blips-vtg.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/blips-vtg.bin) (MD5SUM: d333bbb441f4ba763ed3b6ee384d2083) - vintage filter firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
 * silent: silence is bliss. audio portions (except for error sounds) of the firmware are truncated
   * [silent-bw.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/silent-bw.bin) (MD5SUM: bd36186b55db2ed7a5df9e5e5f862638) - based on black and white firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
-  * **UNTESTED (but blips-vtg version is tested, so very low chance of failure)** [silent-vtg.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/silent-vtg.bin) (MD5SUM: c92863a38a8885a726c5df6c6031e5f5) - based on vintage filter firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
+  * [silent-vtg.bin](https://raw.githubusercontent.com/prokrypt/campsnap-fun/main/fwhacks/silent-vtg.bin) (MD5SUM: c92863a38a8885a726c5df6c6031e5f5) - based on vintage filter firmware. don't forget DRAMPARA.txt (MD5SUM: 39e89611f1439eab1192d6c01ea2a952)!
 
 more to come...
