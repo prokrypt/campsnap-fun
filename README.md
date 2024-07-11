@@ -159,7 +159,7 @@
 ## firmware hacks
 * rename to 1628.bin
 * don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!
-* if md5sums do not match, do not continue. md5sums last checked 06/05/2024.
+* if md5sums do not match, do not continue. md5sums last checked 07/11/2024.
 * follow instructions from official Camp Snap support page.
 * ~~if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.~~
   * TODO: figure out how to put camera into USB ISP mode, possibly through USB-C SBU?
