@@ -157,10 +157,11 @@
   * ![warranty void](./images/lanyard_hole.jpg)
 
 ## firmware hacks
-* rename to 1628.bin
-* don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!
-* if md5sums do not match, do not continue. md5sums last checked 07/11/2024.
-* follow instructions from official Camp Snap support page.
+* @ [Releases](https://github.com/prokrypt/campsnap-fun/releases)
+* ~~rename to 1628.bin~~
+* ~~don't forget ISP.BIN (MD5SUM: 853f59f93e4fca2c3bd56c46613a69be)!~~
+* ~~if md5sums do not match, do not continue. md5sums last checked 07/11/2024.~~
+* ~~follow instructions from official Camp Snap support page.~~
 * ~~if you think you've bricked your camera, try removing the microsd card and putting the files onto it manually via external microsd reader.~~
   * TODO: figure out how to put camera into USB ISP mode, possibly through USB-C SBU?
 * **disclaimer: these firmware hacks are not endorsed nor supported by the Camp Snap company. flash at your own risk.**
